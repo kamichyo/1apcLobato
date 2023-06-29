@@ -3,15 +3,18 @@ h1{
     font-size: 30px;
     color: red;
 }
+
 body {
 background-color: rgb(0, 0, 0);
 }
-p{
-text-align: center;
-font-size: 30px;
-color: red;
-}
+
 .kid {
  width: 50%;
 height: 20%;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    color: red;
 }
